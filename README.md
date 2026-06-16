@@ -17,6 +17,6 @@ Google Chrome|下载源代码拖放至扩展页
 
 ```js
 const allData = [
-  [`English`, `英文`],
+  [`English`, `文`],
 ]
 ```
